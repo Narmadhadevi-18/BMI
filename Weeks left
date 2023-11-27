@@ -1,0 +1,7 @@
+age = input()
+age_left=90-int(age)
+week_left=age_left*52
+# print(age_left)
+# print(week_left)
+print(f"You have {age_left} weeks left.")
+print(f"You have {week_left} weeks left.")
